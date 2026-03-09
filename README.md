@@ -1,14 +1,5 @@
 <div align="center">
 
-```
- █████╗ ███╗   ██╗██╗  ██╗██╗   ██╗███████╗██╗  ██╗
-██╔══██╗████╗  ██║██║ ██╔╝██║   ██║██╔════╝██║  ██║
-███████║██╔██╗ ██║█████╔╝ ██║   ██║███████╗███████║
-██╔══██║██║╚██╗██║██╔═██╗ ██║   ██║╚════██║██╔══██║
-██║  ██║██║ ╚████║██║  ██╗╚██████╔╝███████║██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
-
 # 💀 Ankush Kumar | `@ahirankush771`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Security+Tools+Developer+%F0%9F%9B%A0%EF%B8%8F;Ethical+Hacker+%7C+PenTester+%F0%9F%94%93;Network+Scanner+Builder+%F0%9F%93%A1;Bluetooth+%26+WiFi+Security+Researcher+%F0%9F%93%B6;Diploma+CSE+%7C+Cybersecurity+Focused+%F0%9F%8E%93)](https://git.io/typing-svg)
