@@ -11,7 +11,7 @@
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-# 👾 Ankit Ahiran | Cybersecurity Enthusiast & Tool Builder
+# 👾 Ankush | Cybersecurity Enthusiast & Tool Builder
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Ethical+Hacker+%F0%9F%94%93;Penetration+Tester+%F0%9F%92%89;Malware+Analyst+%F0%9F%A6%A0;Security+Tool+Developer+%F0%9F%9B%A0%EF%B8%8F;Breaking+things+to+fix+them+%F0%9F%94%A5)](https://git.io/typing-svg)
 
@@ -26,7 +26,7 @@
 
 ```bash
 $ whoami
-> Ankit Ahiran — Cybersecurity Intermediate | Ethical Hacker | Tool Dev
+> Ankush — Cybersecurity Intermediate | Ethical Hacker | Tool Dev
 
 $ cat /etc/profile
 > 🎯 Focused on: Penetration Testing, Network Recon & Malware Analysis
