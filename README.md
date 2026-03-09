@@ -183,7 +183,7 @@
 
 ![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ahirankush771&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahirankush771&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahirankush771&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ahirankush771&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
 
