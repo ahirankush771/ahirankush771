@@ -1,248 +1,130 @@
 <div align="center">
 
-# 💀 Ankush Kumar | `@ahirankush771`
+<!-- HEADER ANIMATION -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=00F2FE,4FACFE,00FF66&height=220&section=header&text=ANKUSH%20KUMAR&fontSize=44&fontAlignY=38&desc=%F0%9F%94%90%20Ethical%20Hacker%20%7C%20%F0%9F%9B%A1%EF%B8%8F%20Cyber%20Security%20Researcher&descFontSize=20&descAlignY=62&fontColor=ffffff" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Security+Tools+Developer+%F0%9F%9B%A0%EF%B8%8F;Ethical+Hacker+%7C+PenTester+%F0%9F%94%93;Network+Scanner+Builder+%F0%9F%93%A1;Bluetooth+%26+WiFi+Security+Researcher+%F0%9F%93%B6;Diploma+CSE+%7C+Cybersecurity+Focused+%F0%9F%8E%93)](https://git.io/typing-svg)
+<!-- TYPING SVG ANIMATION -->
+<a href="https://github.com/ahirankush771">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=%3E_++echo+%22Hello%2C+I'm+Ankush+Kumar%22;%3E_++Ethical+Hacker+%F0%9F%94%90;%3E_++Cyber+Security+Researcher+%F0%9F%9B%A1%EF%B8%8F;%3E_++Offensive+Security+%26+Red+Teaming+%F0%9F%A7%A0;%3E_++Security+Tools+%26+Exploit+Developer+%E2%9A%99%EF%B8%8F;%3E_++Vulnerability+Assessor+%26+Bug+Hunter+%F0%9F%94%8E" alt="Typing SVG" />
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ahirankush771&color=00ff41&style=flat-square&label=PROFILE+HITS)
-[![GitHub followers](https://img.shields.io/github/followers/ahirankush771?label=Followers&style=flat-square&color=00ff41)](https://github.com/ahirankush771)
-[![GitHub stars](https://img.shields.io/github/stars/ahirankush771?label=Total+Stars&style=flat-square&color=yellow)](https://github.com/ahirankush771)
+<br/>
+
+<!-- BADGES ROW -->
+<p align="center">
+  <a href="https://github.com/ahirankush771">
+    <img src="https://img.shields.io/badge/Role-Cyber%20Security%20Researcher-00FF66?style=for-the-badge&logo=target&logoColor=black"/>
+  </a>
+  <a href="https://github.com/ahirankush771">
+    <img src="https://img.shields.io/badge/Specialization-Ethical%20Hacking-00F2FE?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ahirankush771">
+    <img src="https://img.shields.io/badge/Focus-Offensive%20Security-ff0055?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🧠 `$ cat /etc/hacker-profile`
+### ⚡ Terminal Overview
 
 ```bash
-┌──(ankush㉿kali)-[~]
-└─$ whoami
-
-  Name     : Ankush Kumar
-  Handle   : ahirankush771
-  Role     : Security Tools Developer (Student)
-  Status   : Diploma CSE — Cybersecurity & Linux Security
-  Location : Samastipur, Bihar, India 🇮🇳
-  Focus    : Building real-world offensive & defensive security tools
-  Mindset  : "If it runs, it can be exploited. If it's exploitable, I'll find it."
-
-┌──(ankush㉿kali)-[~]
-└─$
+┌──(root㉿ankush-sec)-[~]
+└─# whoami
+❯ Identity       : Ankush Kumar
+❯ Handle         : @ahirankush771
+❯ Title          : Ethical Hacker & Cyber Security Researcher
+❯ Core Arsenal   : Network PenTest, Vulnerability Research, Exploit Tooling
+❯ Target Focus   : Advanced Penetration Testing, Malware RE & Red Teaming
+❯ Status         : Actively developing automated security tools & research suites 🛡️
 ```
 
 ---
 
-## ⚙️ Tech Stack & Arsenal
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash_Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logoColor=white)
-
-### 🛠️ Security Tools & Platforms
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=terminal&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
----
-
-## 🚀 Projects — Real Tools I Built
-
-> 🔧 *All tools built from scratch. Tested on Kali Linux & Termux.*
-
-### 🔵 BlueScout-Pro
-> **Advanced Bluetooth Recon & Monitoring Toolkit**
-
-```
-📡 BLE device detection & classification
-📊 Live monitoring with detailed report export
-🐧 Supports Linux & Termux
-🏷️ bluetooth | BLE | bluetooth-low-energy | device-recon
-🔗 Lang: Python
-```
-[![BlueScout-Pro](https://img.shields.io/badge/View_Repo-BlueScout--Pro-blue?style=for-the-badge&logo=github)](https://github.com/ahirankush771/BlueScout-Pro)
-
----
-
-### 🌐 NetDiscover-Pro
-> **Advanced Local Network Scanner**
-
-```
-🔍 Port scanning + OS fingerprinting
-📷 Camera device detection on network
-📶 WiFi network enumeration & security analysis
-🏷️ port-scanner | wifi-security | network-scanner | camera-control
-🔗 Lang: Python | MIT License
-```
-[![NetDiscover-Pro](https://img.shields.io/badge/View_Repo-NetDiscover--Pro-green?style=for-the-badge&logo=github)](https://github.com/ahirankush771/NetDiscover-Pro)
-
----
-
-### 🕷️ vulnscan
-> **Web Vulnerability Scanner**
-
-```
-💉 Automated web app vulnerability detection
-🎯 Built for web security research | CSE Project
-🔗 Lang: Python | MIT License
-```
-[![vulnscan](https://img.shields.io/badge/View_Repo-vulnscan-red?style=for-the-badge&logo=github)](https://github.com/ahirankush771/vulnscan)
-
----
-
-### 📶 wifi-tester
-> **WiFi Security Testing Tool**
-
-```
-🔓 WiFi network analysis & penetration testing
-🐧 Linux & Termux compatible
-🔗 Lang: Python
-```
-[![wifi-tester](https://img.shields.io/badge/View_Repo-wifi--tester-orange?style=for-the-badge&logo=github)](https://github.com/ahirankush771/wifi-tester)
-
----
-
-### 🔒 SecAudit-Lite
-> **Lightweight Security Auditing Tool**
-
-```
-🛡️ System & network security audit automation
-📋 Generates structured audit reports
-🔗 Lang: Python | MIT License
-```
-[![SecAudit-Lite](https://img.shields.io/badge/View_Repo-SecAudit--Lite-purple?style=for-the-badge&logo=github)](https://github.com/ahirankush771/SecAudit-Lite)
-
----
-
-### 👁️ Cyber-Ankush-Private-Viewer
-> **OSINT Social Media Recon Tool — Termux**
-
-```
-🔥 Instagram/Facebook profile reconnaissance
-📱 No login required | Pure Termux/Shell
-⭐ 1 Star | Shell Script
-```
-[![Private-Viewer](https://img.shields.io/badge/View_Repo-Private--Viewer-yellow?style=for-the-badge&logo=github)](https://github.com/ahirankush771/Cyber-Ankush-Private-Viewer)
-
----
-
-### 🔍 insta-bypass
-> **Instagram Auth Research Tool**
-
-```
-🔐 Security research on authentication mechanisms
-🔗 Lang: Python | MIT License
-```
-[![insta-bypass](https://img.shields.io/badge/View_Repo-insta--bypass-pink?style=for-the-badge&logo=github)](https://github.com/ahirankush771/insta-bypass)
-
----
-
-### 📍 Find-my-Device
-> **Remote Device Tracking Tool**
-
-```
-📡 Device location & tracking module
-🔧 Active Development
-```
-[![Find-my-Device](https://img.shields.io/badge/View_Repo-Find--my--Device-cyan?style=for-the-badge&logo=github)](https://github.com/ahirankush771/Find-my-Device)
-
----
-
-### 🌐 cyberlab-web
-> **Web-based Cybersecurity Lab Interface**
-
-```
-💻 Browser-based security lab environment
-🔗 Lang: Python
-```
-[![cyberlab-web](https://img.shields.io/badge/View_Repo-cyberlab--web-teal?style=for-the-badge&logo=github)](https://github.com/ahirankush771/cyberlab-web)
-
----
-
-## 📊 GitHub Intelligence Report
+### 🛡️ Arsenal & Technologies
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=ahirankush771&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&count_private=true)
+#### **Offensive Security & Pentesting Arsenal**
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-1B3A4B?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-002E4E?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reverse_Engineering-00FF66?style=for-the-badge&logo=codeforces&logoColor=black" />
+</p>
 
-![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ahirankush771&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahirankush771&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ahirankush771&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+#### **Programming & Development Stack**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,linux,git,github,docker,html,css,js&theme=dark" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🎯 Attack Surface Map
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                  SECURITY SPECIALIZATIONS                       ║
-╠═══════════════════════════╦══════════════════════════════════════╣
-║  📡  Network Recon        ║  NetDiscover-Pro | wifi-tester       ║
-║  🔵  Bluetooth Security   ║  BlueScout-Pro (BLE/Bluetooth)       ║
-║  🕷️   Web Vulnerability   ║  vulnscan | cyberlab-web             ║
-║  👁️   OSINT / Recon       ║  Cyber-Ankush-Private-Viewer         ║
-║  🔐  Auth Research        ║  insta-bypass                        ║
-║  🛡️   Security Audit      ║  SecAudit-Lite                       ║
-║  📍  Device Tracking      ║  Find-my-Device                      ║
-║  🛠️   Total Arsenal       ║  16 Public Repos & Counting...       ║
-╚═══════════════════════════╩══════════════════════════════════════╝
-```
-
----
-
-## 📈 Current Mission
-
-```python
-ankush = {
-    "name"      : "Ankush Kumar",
-    "status"    : "Intermediate → Advanced",
-    "learning"  : ["Advanced PenTest", "Malware RE", "Assembly", "CTFs"],
-    "building"  : ["More security tools for Kali + Termux"],
-    "target"    : "Certified Ethical Hacker (CEH) 🎯",
-    "open_to"   : ["Collaborations", "CTF Teams", "Security Internships"]
-}
-
-print(f"[*] {ankush['name']} is actively building the future of security tools.")
-# [*] Ankush Kumar is actively building the future of security tools.
-```
-
----
-
-## 🔗 Connect
+### 🚀 Security Tools & Research Projects
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-ahirankush771-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahirankush771)
-[![Portfolio](https://img.shields.io/badge/Portfolio-my--portfolio-00FF41?style=for-the-badge&logo=googlechrome&logoColor=black)](https://ahirankush771.github.io/my-portfolio)
-[![Instagram](https://img.shields.io/badge/Instagram-@yadav771-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yadav771)
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :---: | :---: |
+| [**BlueScout-Pro**](https://github.com/ahirankush771/BlueScout-Pro) | Advanced Bluetooth Recon & Monitoring Toolkit (BLE detection, live tracking & report engine) | `Python` `BLE` `Linux` | 🟢 Active |
+| [**NetDiscover-Pro**](https://github.com/ahirankush771/NetDiscover-Pro) | High-speed local network scanner featuring OS fingerprinting, open port analyzer & camera discovery | `Python` `Network` `Nmap` | 🟢 Active |
+| [**vulnscan**](https://github.com/ahirankush771/vulnscan) | Automated web vulnerability assessment & security audit suite for security researchers | `Python` `OWASP` `Web` | 🟢 Active |
+| [**wifi-tester**](https://github.com/ahirankush771/wifi-tester) | Wi-Fi network analysis, handshake auditing & penetration testing framework for Linux & Termux | `Bash` `Wireless` `Audit` | 🟢 Active |
+| [**OSINT-Recon**](https://github.com/ahirankush771) | Automated digital footprinting, metadata inspection & social media intelligence gatherer | `Python` `Bash` `OSINT` | 🟢 Active |
+| [**Auth-Research**](https://github.com/ahirankush771) | Security research toolkit for testing authentication mechanisms and access controls | `Python` `Auth` `API` | 🟢 Active |
 
 </div>
 
 ---
 
+### 📊 Real-Time GitHub Analytics
+
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║   "The best way to understand a system is to try to break   ║
-║    it. Ethically."                        — Ankush Kumar    ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+  <img src="https://github-readme-stats.vercel.app/api?username=ahirankush771&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=c9d1d9" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahirankush771&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=c9d1d9" height="175" alt="Top Languages" />
 
-⚠️ **Disclaimer:** All tools are built for **educational & ethical security research only.**
-🛡️ Always test in **authorized environments.** Stay legal. Respect scope.
+  <br/><br/>
 
-**`> Hack the planet. Ethically. 🌐`**
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahirankush771&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&text=c9d1d9" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahirankush771&theme=tokyo-night&hide_border=true&area=true&color=00FF66&bg_color=0D1117" width="95%" alt="Activity Graph" />
+
+</div>
+
+---
+
+### 🌐 Connect & Network
+
+<div align="center">
+
+<p align="center">
+  <a href="https://github.com/ahirankush771" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ahirankush771-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:ahirankush771@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+<!-- FOOTER ANIMATION -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=00FF66,00F2FE&height=100&section=footer" width="100%"/>
 
 </div>
